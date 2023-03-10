@@ -1,21 +1,23 @@
-File Converter
-Convert Your Files
+	<h1>File Converter</h1>
+	<p>Convert Your Files</p>
 
-With our file converter, you can easily convert your documents, images, and presentations to a variety of formats.
+	<p>With our file converter, you can easily convert your documents, images, and presentations to a variety of formats.</p>
 
-Installation
-It is simple, just download the file. It's only front-end at this time (as of March 10, 2023), and the backend is under construction.
 
-Usage
+	<h2>Installation</h2>
+	<p>It is simple, just download the file. It's only front-end at this time (as of March 10, 2023), and the backend is under construction.</p>
+
+
+	<h2>Usage</h2>
 Visit our landing page at https://gutudanii.github.io/Landing_Page/ to use our file converter.
 
-About the Programmer
+	<h2>About the Programmer</h2>
 This project was developed by Gutu Daniel Geleta.
 
-Contact Information
-Telegram: https://t.me/gutudanii
-Facebook: https://www.facebook.com/gutu.daniel.980
-Instagram: https://www.instagram.com/gutuyeshi/
-LinkedIn: https://www.linkedin.com/in/gutu-daniel/
-GitHub: https://github.com/gutudanii/
+	<h3>Contact Information</h3>
+<a href="https://github.com/gutudanii/">GitHub</a>
+<a href="https://t.me/gutudanii">Telegram</a>
+<a href="https://www.facebook.com/gutu.daniel.980">Facebook</a>
+<a href="https://www.instagram.com/gutuyeshi/">Instagram</a>
+<a href="https://www.linkedin.com/in/gutu-daniel/">LinkedIn</a>
 Thank you for checking out our file converter!
