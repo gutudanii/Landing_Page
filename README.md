@@ -9,7 +9,7 @@ It is simple, just download the file. It's only front-end at this time (as of Ma
 
 
 <h2>Usage</h2>
-Visit our landing page at https://gutudanii.github.io/Landing_Page/ to use our file converter.
+Visit our landing page at <a href = "https://gutudanii.github.io/Landing_Page/">Landing Page</a> to use our file converter.
 
 <h2>About the Programmer</h2>
 This project was developed by Gutu Daniel Geleta.
