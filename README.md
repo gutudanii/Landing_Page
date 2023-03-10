@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>File Converter</title>
-</head>
 <body>
 	<h1>File Converter</h1>
 	<p>Convert Your Files</p>
@@ -28,5 +22,3 @@
 	</ul>
 	
 	<p>Thank you for checking out our file converter!</p>
-</body>
-</html>
